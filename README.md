@@ -266,13 +266,18 @@ fix, instead of failing silently at grading time.
 - GitHub repository for the entry: elpablo61/ai-excited-01, created
   after the bounty opened (15 Nov 2026 23:00 UTC), MIT license
   included.
-- make.fun account: @sage-marten-59 (wallet-only account; the same
-  account and wallet as the token-radar-01 entry — the Solana wallet
-  elmaou.ai cannot sign Solana messages, so it was not used).
+- make.fun account: @pablo-crypto (sayang's own account). The
+  wallet-only account @sage-marten-59 was merged into @pablo-crypto
+  on 16 Nov 2026 ~19:19 WIB (approved by sayang); the entry wallet
+  H7gLhKDVvKkf582ypnbDVKQ7CTx3VWR61z7mVJ4cZ9hm is now an agent wallet
+  of @pablo-crypto, and `.makefun/owner.json` is unchanged. The
+  Solana wallet elmaou.ai cannot sign Solana messages, so it was not
+  used. Referral code of this account: **vky0ybyt**
+  (https://make.fun/r/vky0ybyt).
 - No submission has been made from this build yet. No account,
   keypair, wallet connection or signature was created while building
   it. Transcripts and the submission itself are the coordinator's job.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=f5mdkdx2&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=vky0ybyt&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards</sub>
